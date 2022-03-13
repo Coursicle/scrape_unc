@@ -1,5 +1,6 @@
 def scrape(self):
 
+	# init libraries
 	import requests
 	from bs4 import BeautifulSoup
 
